@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  msr:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-31T17:30:21.046335575Z"
+    description: A Helm chart for Kubernetes
+    digest: 93eb68b1534a2d8be125cc348fb3ee128c01243c49af45ab74d8badd01ccd865
+    name: msr
+    type: application
+    urls:
+    - https://github.com/wahabmk/new-helm-test/releases/download/msr-0.7.0/msr-0.7.0.tgz
+    version: 0.7.0
+generated: "2021-08-31T17:30:21.046609579Z"
